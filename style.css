@@ -1,1 +1,14 @@
-header
+h1
+{
+    width: auto;
+    height: 200px;
+    background-color: aquamarine;
+    background-attachment:local;
+    text-align: center;
+}
+h2
+{
+    width: auto;
+    height: 200px;
+    text-align: center;
+}
